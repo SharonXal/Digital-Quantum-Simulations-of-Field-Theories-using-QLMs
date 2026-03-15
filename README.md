@@ -11,3 +11,4 @@ As of now, the simulations typically reproduce existing theoretical proposals ra
 Since this is an ongoing personal learning project, some implementations may contain mistakes or approximations. I continuously refine and debug the codes as I learn more.
 
 Notebooks in this repo:
+1. **schwinger_model_qiskit.ipynb**: This notebook provides a fully self-contained quantum simulation of the Schwinger model — quantum electrodynamics (QED) in 1+1 dimensions — using IBM's Qiskit framework. Based on **U(1) Wilson lattice gauge theories in digital quantum simulators by Muschik et al.** All circuits run on Qiskit Aer's statevector simulator, mimicking a trapped-ion digital quantum computer with all-to-all Mølmer–Sørensen gates.
